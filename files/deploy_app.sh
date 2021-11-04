@@ -11,7 +11,11 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
+<<<<<<< HEAD
   Welcome to ${PREFIX}'s app. xxx.
+=======
+  Welcome to ${PREFIX}'s app. The only thing beyond Ludicrous is Plaid.
+>>>>>>> 8c70fab553cfc379d434a462d10c33ae3e8a27f4
   <!-- END -->
 
   </div>
